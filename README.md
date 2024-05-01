@@ -23,7 +23,7 @@
 <div style="display:flex; flex-direction:row; align-items:center;">
   <p><img align="left" width="25%" height="25%" src="./files/all.gif" alt="research_with_background" style="margin-right: 20px;"></p>
   <div style="display:flex; flex-direction:column; margin-bottom: 100px;">
-    <p style="display:flex; flex-direction:column; font-size: 18px; font-weight: bold; color: #88898a;"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=D595F7&background=EFEEFF00&center=true&multiline=true&random=false&width=500&height=100&lines=My+research%3A;Generative+AI+%7C+Drug+design+%7C+ML;Dimensionality+reduction+methods;Small+molecules+%7C+DNA+%7C+Proteins+%7C+Peptides" alt="Typing Animation" hspace="10" height="auto"></p>
+    <p style="display:flex; flex-direction:column; font-size: 18px; font-weight: bold; color: #88898a;"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=100&color=D595F7&background=EFEEFF00&center=true&multiline=true&random=false&width=500&height=100&lines=My+research%3A;Generative+AI+%7C+Drug+design+%7C+ML;Dimensionality+reduction+methods;Small+molecules+%7C+DNA+%7C+Proteins+%7C+Peptides" alt="Typing Animation" hspace="10" height="auto"></p>
     <div style="display:flex; align-items:center;">
       <img src="https://komarev.com/ghpvc/?username=karinapikalyova&label=Visitors&style=flat&color=88898a" alt="Visitors Counter" style="width:90px;" hspace="10">
     </div>
