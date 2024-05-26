@@ -1,6 +1,6 @@
-## Hello everyone, my name is Karina and I am a final-year PhD student in chemoinformatics and Deep Learning for drug design!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
+### Hello everyone, my name is Karina and I am a final-year PhD student in chemoinformatics and Deep Learning for drug design!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
-## I am open to job opportunities in industry or PostDoc with industrial collaboration! 🚀
+### I am open to job opportunities in industry or PostDoc with industrial collaboration! 🚀
 
 
 <br clear="left"/>
@@ -48,8 +48,3 @@
 
 📂 **Version Control**  ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)
-
-
-💻 **IDEs** ![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-%23FA0F00.svg?style=flat&logo=jupyter&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-143?style=flat&logo=pycharm&logoColor=black&color=black&labelColor=green)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white)
