@@ -1,6 +1,6 @@
-### Hello everyone, my name is Karina and I am a doctor in chemoinformatics and Deep Learning for drug design!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
+### Hello everyone, my name is Karina and I am a doctor in cheminformatics and Deep Learning for drug design!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
-### I am passionate about drug discovery of novel therapeutic modalities! 🚀
+### I am passionate about AI for the discovery of novel therapeutic modalities! 🚀
 
 
 <br clear="left"/>
