@@ -8,7 +8,7 @@
 
 <div align="left" style="margin-top:20px;">
 
-<div>💼 <strong> current: Research AI engineer in R&D at Alysophil</strong> @ <a href="https://www.alysophil.com">Alysophil</a>.</div>
+<div>💼 <strong> current: Research AI engineer in R&D</strong> @ <a href="https://www.alysophil.com">Alysophil</a>.</div>
 <div>🎓 <strong> PhD student </strong> in <strong>Chemoinformatics and Deep Learning for drug design</strong> @ <a href="https://complex-matter.unistra.fr/en/research-teams/laboratory-of-chemoinformatics/">Laboratory of chemoinformatics</a>.</div>
 <div>🎓 <strong>Master's Degree</strong> in <strong>Chemoinformatics</strong> @ <strong>University of Strasbourg</strong>.</div>
 <div>🎓 <strong>Bachelor's Degree</strong> in <strong>Chemistry</strong> @ <strong>University of Strasbourg</strong>.</div>
